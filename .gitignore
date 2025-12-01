@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+ENV/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdf
+*.docx
+lightning_logs/
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore macOS system files (optional)
+.DS_Store
